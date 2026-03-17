@@ -4,6 +4,8 @@
 [![Cases](https://img.shields.io/badge/cases-21-green.svg)](#cases)
 [![Languages](https://img.shields.io/badge/languages-EN%2FCN-lightgrey.svg)](#languages)
 
+**[中文版](README.zh.md) | English**
+
 A curated collection of real-world OpenClaw use cases with detailed implementation guides in English and Chinese.
 
 > **Browse online at [clawindex.app](https://clawindex.app)** - The interactive platform for exploring, filtering, and discovering OpenClaw cases.

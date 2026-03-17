@@ -4,6 +4,8 @@
 [![Cases](https://img.shields.io/badge/cases-21-green.svg)](#案例)
 [![Languages](https://img.shields.io/badge/languages-EN%2FCN-lightgrey.svg)](#语言)
 
+**中文版 | [English](README.md)**
+
 精选的真实 OpenClaw 用例集合，提供详细实施指南（中英文双语）。
 
 > **在线浏览：[clawindex.app](https://clawindex.app)** - 探索、筛选和发现 OpenClaw 案例的交互式平台。
