@@ -1,7 +1,7 @@
 # Awesome OpenClaw Cases
 
 [![License: MIT](https://img.shields.io/badge/license-MIT-blue.svg)](https://choosealicense.com/licenses/mit/)
-[![Cases](https://img.shields.io/badge/cases-21-green.svg)](#cases)
+[![Cases](https://img.shields.io/badge/cases-24-green.svg)](#cases)
 [![Languages](https://img.shields.io/badge/languages-EN%2FCN-lightgrey.svg)](#languages)
 
 **[中文版](README.zh.md) | English**
@@ -31,6 +31,9 @@ These cases are extracted from community showcases, official documentation, blog
 - [WeChat Auto-Publishing Pipeline](usecases/automation-integration/wechat-auto-publishing-pipeline.md) - One-click content pipeline from topic to draft
 - [Xiaohongshu Full Ops Automation](usecases/automation-integration/xiaohongshu-full-ops-automation.md) - End-to-end Xiaohongshu operations
 - [TweetClaw Twitter Automation](usecases/automation-integration/tweetclaw-twitter-automation.md) - Full X/Twitter automation from chat
+- [OpenClaw n8n Stack](usecases/automation-integration/openclaw-n8n-stack.md) - Self-hosted AI agents with workflow automation (400+ service integrations)
+- [Multi-Agent Orchestration Specialists](usecases/automation-integration/multi-agent-orchestration-specialists.md) - 14+ specialist AI agents with parallel execution (15s human time)
+- [OpenClaw Home Assistant Add-on](usecases/automation-integration/openclaw-home-assistant-addon.md) - AI gateway for smart home automation with browser automation
 
 ### 📊 Data Analytics
 - [Semantic Memory Search](usecases/data-analytics/semantic-memory-search.md) - Knowledge recall with semantic retrieval

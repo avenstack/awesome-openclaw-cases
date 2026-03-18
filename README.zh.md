@@ -1,7 +1,7 @@
 # Awesome OpenClaw 案例集
 
 [![License: MIT](https://img.shields.io/badge/license-MIT-blue.svg)](https://choosealicense.com/licenses/mit/)
-[![Cases](https://img.shields.io/badge/cases-21-green.svg)](#案例)
+[![Cases](https://img.shields.io/badge/cases-24-green.svg)](#案例)
 [![Languages](https://img.shields.io/badge/languages-EN%2FCN-lightgrey.svg)](#语言)
 
 **中文版 | [English](README.md)**
@@ -31,6 +31,9 @@
 - [微信自动发布流水线](usecases/automation-integration/wechat-auto-publishing-pipeline.zh.md) - 从选题到草稿的一键内容流水线
 - [小红书全链路运营自动化](usecases/automation-integration/xiaohongshu-full-ops-automation.zh.md) - 端到端小红书运营
 - [TweetClaw Twitter 自动化](usecases/automation-integration/tweetclaw-twitter-automation.zh.md) - 从聊天实现完整的 X/Twitter 自动化
+- [OpenClaw n8n Stack](usecases/automation-integration/openclaw-n8n-stack.zh.md) - 自托管 AI 智能体与工作流自动化（400+ 服务集成）
+- [多智能体编排专家](usecases/automation-integration/multi-agent-orchestration-specialists.zh.md) - 14+ 专职 AI 智能体并行执行（15 秒人类时间）
+- [OpenClaw Home Assistant 插件](usecases/automation-integration/openclaw-home-assistant-addon.zh.md) - 智能家居 AI 网关，支持浏览器自动化
 
 ### 📊 数据分析
 - [语义记忆搜索](usecases/data-analytics/semantic-memory-search.zh.md) - 语义检索的知识召回
