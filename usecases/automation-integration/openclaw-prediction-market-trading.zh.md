@@ -14,7 +14,6 @@ tags:
 targetUser:
   - 量化交易员
   - 算法交易开发者
-  - 风险意识强的投资者
 skillsUsed:
   - name: Polyclaw
     href: https://github.com/chainstack/olyclaw

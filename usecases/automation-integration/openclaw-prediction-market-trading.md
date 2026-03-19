@@ -14,7 +14,6 @@ tags:
 targetUser:
   - Quantitative traders
   - Algorithmic trading developers
-  - Risk-conscious investors
 skillsUsed:
   - name: Polyclaw
     href: https://github.com/chainstack/olyclaw
