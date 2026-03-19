@@ -1,7 +1,7 @@
 # Awesome OpenClaw 案例集
 
 [![License: MIT](https://img.shields.io/badge/license-MIT-blue.svg)](https://choosealicense.com/licenses/mit/)
-[![Cases](https://img.shields.io/badge/cases-25-green.svg)](#案例)
+[![Cases](https://img.shields.io/badge/cases-26-green.svg)](#案例)
 [![Languages](https://img.shields.io/badge/languages-EN%2FCN-lightgrey.svg)](#语言)
 
 **中文版 | [English](README.md)**
@@ -34,6 +34,7 @@
 - [OpenClaw n8n Stack](usecases/automation-integration/openclaw-n8n-stack.zh.md) - 自托管 AI 智能体与工作流自动化（400+ 服务集成）
 - [多智能体编排专家](usecases/automation-integration/multi-agent-orchestration-specialists.zh.md) - 14+ 专职 AI 智能体并行执行（15 秒人类时间）
 - [OpenClaw Home Assistant 插件](usecases/automation-integration/openclaw-home-assistant-addon.zh.md) - 智能家居 AI 网关，支持浏览器自动化
+- [OpenClaw 自动化预测市场交易](usecases/automation-integration/openclaw-prediction-market-trading.zh.md) - 周收益 11.5 万美元的 Polymarket 自动化交易
 
 ### 📊 数据分析
 - [语义记忆搜索](usecases/data-analytics/semantic-memory-search.zh.md) - 语义检索的知识召回
