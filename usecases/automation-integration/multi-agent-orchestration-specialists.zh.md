@@ -13,8 +13,7 @@ tags:
   - 智能体路由
 targetUser:
   - 构建 AI 团队的平台工程师
-  - 自动化工作流的 DevOps 团队
-  - AI 编排系统架构师
+  - DevOps 团队
 skillsUsed:
   - name: openclaw-multi-agent
     href: https://docs.openclaw.ai/concepts/multi-agent-routing

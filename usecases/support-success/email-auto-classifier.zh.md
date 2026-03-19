@@ -11,9 +11,8 @@ tags:
   - 收件箱自动化
   - 优先级路由
 targetUser:
-  - 创业者与管理者
+  - 工程团队负责人
   - 客服负责人
-  - 个人效率用户
 skillsUsed:
   - name: AgentMail Wrapper
     href: https://clawhub.ai/skills/agentmail-wrapper

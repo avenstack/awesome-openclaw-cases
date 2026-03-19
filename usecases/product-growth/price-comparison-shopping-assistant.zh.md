@@ -11,9 +11,8 @@ tags:
   - 购买优化
   - 购物助手
 targetUser:
-  - 价格敏感型消费者
-  - 小型企业采购者
-  - 个人购物自动化用户
+  - 消费者
+  - 小型企业经营者
 skillsUsed:
   - name: Searching Assistant
     href: https://clawhub.ai/skills/searching-assistant

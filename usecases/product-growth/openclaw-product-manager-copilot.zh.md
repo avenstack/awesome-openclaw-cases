@@ -11,9 +11,8 @@ tags:
   - 竞品情报
   - 迭代自动化
 targetUser:
-  - 管理多个产品的产品经理
-  - 负责迭代流程的 PM 负责人
-  - 兼任产品职能的创业公司创始人
+  - 产品经理
+  - 创业公司创始人
 skillsUsed:
   - name: jira-integration
     href: https://github.com/awesome-openclaw-skills/jira-integration

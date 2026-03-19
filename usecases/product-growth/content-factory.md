@@ -11,9 +11,8 @@ tags:
   - pipeline-automation
   - growth-operations
 targetUser:
-  - Creator teams
-  - Growth content operators
-  - Founder-led media brands
+  - Indie founders
+  - Content teams
 skillsUsed:
   - name: sessions_spawn
     href: https://docs.openclaw.ai/concepts/multi-agent.md

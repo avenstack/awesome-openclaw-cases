@@ -13,8 +13,7 @@ tags:
   - agent-routing
 targetUser:
   - Platform engineers building AI teams
-  - DevOps teams automating workflows
-  - AI orchestration system architects
+  - DevOps teams
 skillsUsed:
   - name: openclaw-multi-agent
     href: https://docs.openclaw.ai/concepts/multi-agent-routing

@@ -11,9 +11,8 @@ tags:
   - 审核工作流
   - 品牌一致性
 targetUser:
-  - 小型企业经营者
+  - 内容创作者
   - 独立创业者
-  - 个人品牌运营者
 skillsUsed:
   - name: Searching Assistant
     href: https://clawhub.ai/skills/searching-assistant

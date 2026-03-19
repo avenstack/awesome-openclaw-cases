@@ -11,9 +11,7 @@ tags:
   - 开发前校验
   - 产品决策
 targetUser:
-  - 独立开发者
-  - 创始人主导产品团队
-  - 产品策略负责人
+  - 独立创业者
 skillsUsed:
   - name: idea-reality-mcp
     href: https://github.com/mnemox-ai/idea-reality-mcp

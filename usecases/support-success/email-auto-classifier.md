@@ -11,9 +11,8 @@ tags:
   - inbox-automation
   - priority-routing
 targetUser:
-  - Founders and managers
+  - Engineering managers
   - Customer support leads
-  - Personal productivity users
 skillsUsed:
   - name: AgentMail Wrapper
     href: https://clawhub.ai/skills/agentmail-wrapper

@@ -13,7 +13,6 @@ tags:
 targetUser:
   - 活动组织者
   - 运营团队
-  - 个人助理
 skillsUsed:
   - name: SuperCall
     href: https://clawhub.ai/xonder/supercall

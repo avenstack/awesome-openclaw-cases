@@ -11,9 +11,8 @@ tags:
   - 流水线自动化
   - 增长运营
 targetUser:
-  - 内容创作团队
-  - 增长内容运营人员
-  - 创始人主导媒体品牌
+  - 独立创业者
+  - 内容团队
 skillsUsed:
   - name: sessions_spawn
     href: https://docs.openclaw.ai/concepts/multi-agent.md

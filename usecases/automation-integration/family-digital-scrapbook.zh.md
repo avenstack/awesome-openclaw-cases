@@ -11,8 +11,7 @@ tags:
   - 家庭日历
   - 照片整理
 targetUser:
-  - 有年幼孩子的家庭
-  - 想要记录孩子成长的父母
+  - 家庭用户
 skillsUsed:
   - name: Gog
     href: https://clawhub.ai/steipete/gog

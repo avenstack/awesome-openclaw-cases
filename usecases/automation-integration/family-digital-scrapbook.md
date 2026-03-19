@@ -11,8 +11,7 @@ tags:
   - family-calendar
   - photo-organizing
 targetUser:
-  - Families with young children
-  - Parents documenting their kids' growth
+  - Families
 skillsUsed:
   - name: Gog
     href: https://clawhub.ai/steipete/gog

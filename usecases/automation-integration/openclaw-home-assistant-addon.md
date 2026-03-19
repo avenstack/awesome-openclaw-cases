@@ -13,8 +13,7 @@ tags:
   - containerized-add-on
 targetUser:
   - Smart home automation enthusiasts
-  - Home Assistant power users
-  - DIY home AI system builders
+  - Home Assistant users
 skillsUsed:
   - name: openclaw-home-assistant
     href: https://github.com/techartdev/OpenClawHomeAssistant

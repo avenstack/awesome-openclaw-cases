@@ -11,9 +11,8 @@ tags:
   - purchase-optimization
   - shopping-assistant
 targetUser:
-  - Cost-conscious consumers
-  - Small business buyers
-  - Personal shopping automation users
+  - Consumers
+  - Small business operators
 skillsUsed:
   - name: Searching Assistant
     href: https://clawhub.ai/skills/searching-assistant

@@ -11,9 +11,8 @@ tags:
   - competitive-intelligence
   - sprint-automation
 targetUser:
-  - Product managers managing multiple products
-  - PM leads running sprint processes
-  - Startup founders wearing PM hats
+  - Product managers
+  - Startup founders
 skillsUsed:
   - name: jira-integration
     href: https://github.com/awesome-openclaw-skills/jira-integration

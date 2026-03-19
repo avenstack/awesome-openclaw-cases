@@ -11,8 +11,8 @@ tags:
   - 向量索引
   - 决策召回
 targetUser:
-  - OpenClaw memory 重度用户
-  - 独立开发者
+  - Agent 构建者
+  - Agent 构建者
   - 知识工作者
 skillsUsed:
   - name: memsearch

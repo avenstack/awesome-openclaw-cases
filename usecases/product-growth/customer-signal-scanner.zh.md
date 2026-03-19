@@ -11,9 +11,8 @@ tags:
   - 反馈优先级
   - 增长信号
 targetUser:
-  - 产品增长团队
+  - 产品经理
   - 社区运营经理
-  - 创始人主导产品团队
 skillsUsed:
   - name: Telegram
     href: https://docs.openclaw.ai/channels/telegram.md

@@ -11,9 +11,7 @@ tags:
   - 用户触达
   - 渠道编排
 targetUser:
-  - 社区驱动品牌团队
-  - 增长运营人员
-  - 创作者商业化团队
+  - 增长团队
 skillsUsed:
   - name: Channel Routing
     href: https://docs.openclaw.ai/channels/channel-routing.md

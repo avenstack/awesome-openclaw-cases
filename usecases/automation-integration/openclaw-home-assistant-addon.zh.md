@@ -13,8 +13,7 @@ tags:
   - 容器化插件
 targetUser:
   - 智能家居自动化爱好者
-  - Home Assistant 高级用户
-  - DIY 家庭 AI 系统构建者
+  - Home Assistant 用户
 skillsUsed:
   - name: openclaw-home-assistant
     href: https://github.com/techartdev/OpenClawHomeAssistant

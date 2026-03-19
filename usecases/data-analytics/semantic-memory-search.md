@@ -11,8 +11,8 @@ tags:
   - vector-indexing
   - decision-recall
 targetUser:
-  - Power users of OpenClaw memory
-  - Solo builders
+  - Agent builders
+  - Agent builders
   - Knowledge workers
 skillsUsed:
   - name: memsearch

@@ -11,9 +11,8 @@ tags:
   - approval-workflow
   - brand-consistency
 targetUser:
-  - Small business operators
+  - Content creators
   - Indie founders
-  - Personal brand creators
 skillsUsed:
   - name: Searching Assistant
     href: https://clawhub.ai/skills/searching-assistant

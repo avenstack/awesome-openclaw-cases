@@ -11,9 +11,7 @@ tags:
   - pre-build-check
   - product-decision
 targetUser:
-  - Indie makers
-  - Founder-led product teams
-  - Product strategy leads
+  - Indie founders
 skillsUsed:
   - name: idea-reality-mcp
     href: https://github.com/mnemox-ai/idea-reality-mcp

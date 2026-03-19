@@ -11,9 +11,7 @@ tags:
   - audience-growth
   - channel-orchestration
 targetUser:
-  - Community-led brands
-  - Growth operators
-  - Creator-business teams
+  - Growth teams
 skillsUsed:
   - name: Channel Routing
     href: https://docs.openclaw.ai/channels/channel-routing.md

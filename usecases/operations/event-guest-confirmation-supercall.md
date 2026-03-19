@@ -13,7 +13,6 @@ tags:
 targetUser:
   - Event organizers
   - Operations teams
-  - Personal assistants
 skillsUsed:
   - name: SuperCall
     href: https://clawhub.ai/xonder/supercall

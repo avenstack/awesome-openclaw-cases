@@ -11,9 +11,8 @@ tags:
   - feedback-prioritization
   - growth-signals
 targetUser:
-  - Product growth teams
+  - Product managers
   - Community managers
-  - Founder-led product teams
 skillsUsed:
   - name: Telegram
     href: https://docs.openclaw.ai/channels/telegram.md
