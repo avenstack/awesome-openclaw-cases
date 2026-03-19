@@ -1,7 +1,7 @@
 # Awesome OpenClaw 案例集
 
 [![License: MIT](https://img.shields.io/badge/license-MIT-blue.svg)](https://choosealicense.com/licenses/mit/)
-[![Cases](https://img.shields.io/badge/cases-24-green.svg)](#案例)
+[![Cases](https://img.shields.io/badge/cases-25-green.svg)](#案例)
 [![Languages](https://img.shields.io/badge/languages-EN%2FCN-lightgrey.svg)](#语言)
 
 **中文版 | [English](README.md)**
@@ -57,6 +57,7 @@
 - [内容工厂](usecases/product-growth/content-factory.zh.md) - 多智能体内容生产与调研-写作-视觉链式编排
 - [多渠道存在同步](usecases/product-growth/multi-channel-presence-sync.zh.md) - 跨平台内容分发与互动追踪
 - [OpenClaw 商业化用例雷达](usecases/product-growth/openclaw-commercial-usecase-radar.zh.md) - 多来源热门用例信号整合
+- [OpenClaw 产品经理助手](usecases/product-growth/openclaw-product-manager-copilot.zh.md) - 自托管 AI 助手：迭代评审、文档撰写与竞品情报
 
 ### 💬 客户支持
 - [邮件自动分类器](usecases/support-success/email-auto-classifier.zh.md) - 按紧急度分流邮件并触发优先提醒

@@ -1,7 +1,7 @@
 # Awesome OpenClaw Cases
 
 [![License: MIT](https://img.shields.io/badge/license-MIT-blue.svg)](https://choosealicense.com/licenses/mit/)
-[![Cases](https://img.shields.io/badge/cases-24-green.svg)](#cases)
+[![Cases](https://img.shields.io/badge/cases-25-green.svg)](#cases)
 [![Languages](https://img.shields.io/badge/languages-EN%2FCN-lightgrey.svg)](#languages)
 
 **[中文版](README.zh.md) | English**
@@ -57,6 +57,7 @@ These cases are extracted from community showcases, official documentation, blog
 - [Content Factory](usecases/product-growth/content-factory.md) - Multi-agent content production orchestration
 - [Multi-Channel Presence Sync](usecases/product-growth/multi-channel-presence-sync.md) - Cross-platform content distribution
 - [OpenClaw Commercial Usecase Radar](usecases/product-growth/openclaw-commercial-usecase-radar.md) - Multi-source opportunity ranking
+- [OpenClaw Product Manager Copilot](usecases/product-growth/openclaw-product-manager-copilot.md) - Self-hosted AI assistant for sprint reviews, documentation, and competitive intelligence
 
 ### 💬 Support & Success
 - [Email Auto-Classifier](usecases/support-success/email-auto-classifier.md) - Email triage with urgency-based routing
