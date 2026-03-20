@@ -1,7 +1,7 @@
 # Awesome OpenClaw Cases
 
 [![License: MIT](https://img.shields.io/badge/license-MIT-blue.svg)](https://choosealicense.com/licenses/mit/)
-[![Cases](https://img.shields.io/badge/cases-27-green.svg)](#cases)
+[![Cases](https://img.shields.io/badge/cases-28-green.svg)](#cases)
 [![Languages](https://img.shields.io/badge/languages-EN%2FCN-lightgrey.svg)](#languages)
 
 **[中文版](README.zh.md) | English**
@@ -63,6 +63,7 @@ These cases are extracted from community showcases, official documentation, blog
 
 ### 💬 Support & Success
 - [Email Auto-Classifier](usecases/support-success/email-auto-classifier.md) - Email triage with urgency-based routing
+- [Email Communications Copilot](usecases/support-success/email-communications-copilot.md) - Inbox zero, meeting notes, and reviewable reply drafts
 
 ## 🚀 Quick Start
 

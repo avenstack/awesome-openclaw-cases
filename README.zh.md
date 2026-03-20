@@ -1,7 +1,7 @@
 # Awesome OpenClaw 案例集
 
 [![License: MIT](https://img.shields.io/badge/license-MIT-blue.svg)](https://choosealicense.com/licenses/mit/)
-[![Cases](https://img.shields.io/badge/cases-27-green.svg)](#案例)
+[![Cases](https://img.shields.io/badge/cases-28-green.svg)](#案例)
 [![Languages](https://img.shields.io/badge/languages-EN%2FCN-lightgrey.svg)](#语言)
 
 **中文版 | [English](README.md)**
@@ -63,6 +63,7 @@
 
 ### 💬 客户支持
 - [邮件自动分类器](usecases/support-success/email-auto-classifier.zh.md) - 按紧急度分流邮件并触发优先提醒
+- [邮件沟通助手](usecases/support-success/email-communications-copilot.zh.md) - 收件箱清零、会议纪要提取与回复草稿
 
 ## 🚀 快速开始
 
