@@ -1,7 +1,7 @@
 # Awesome OpenClaw Cases
 
 [![License: MIT](https://img.shields.io/badge/license-MIT-blue.svg)](https://choosealicense.com/licenses/mit/)
-[![Cases](https://img.shields.io/badge/cases-26-green.svg)](#cases)
+[![Cases](https://img.shields.io/badge/cases-27-green.svg)](#cases)
 [![Languages](https://img.shields.io/badge/languages-EN%2FCN-lightgrey.svg)](#languages)
 
 **[中文版](README.zh.md) | English**
@@ -43,6 +43,7 @@ These cases are extracted from community showcases, official documentation, blog
 ### 🛠 Engineering
 - [OpenClaw Opik Observability](usecases/engineering/openclaw-opik-observability.md) - Observability practices with Opik
 - [Swift Logger Package (TDD)](usecases/engineering/swift-logger-package-tdd.md) - Test-driven development for Swift libraries
+- [DevClaw Autonomous Dev Team](usecases/engineering/devclaw-autonomous-dev-team.md) - Multi-project dev teams with 60-80% token savings
 
 ### ⚙ Operations
 - [Event Guest Confirmation Supercall](usecases/operations/event-guest-confirmation-supercall.md) - Automated guest confirmation workflow

@@ -1,7 +1,7 @@
 # Awesome OpenClaw 案例集
 
 [![License: MIT](https://img.shields.io/badge/license-MIT-blue.svg)](https://choosealicense.com/licenses/mit/)
-[![Cases](https://img.shields.io/badge/cases-26-green.svg)](#案例)
+[![Cases](https://img.shields.io/badge/cases-27-green.svg)](#案例)
 [![Languages](https://img.shields.io/badge/languages-EN%2FCN-lightgrey.svg)](#语言)
 
 **中文版 | [English](README.md)**
@@ -43,6 +43,7 @@
 ### 🛠 工程实践
 - [OpenClaw Opik 可观测性实践](usecases/engineering/openclaw-opik-observability.zh.md) - Opik 可观测性实践
 - [Swift 日志包（TDD）](usecases/engineering/swift-logger-package-tdd.zh.md) - Swift 库的测试驱动开发
+- [DevClaw 自主开发团队](usecases/engineering/devclaw-autonomous-dev-team.zh.md) - 多项目开发团队，节省 60-80% Token
 
 ### ⚙ 运维实践
 - [活动嘉宾确认 Supercall](usecases/operations/event-guest-confirmation-supercall.zh.md) - 自动化嘉宾确认工作流
