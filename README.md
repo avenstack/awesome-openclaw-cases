@@ -1,7 +1,7 @@
 # Awesome OpenClaw Cases
 
 [![License: MIT](https://img.shields.io/badge/license-MIT-blue.svg)](https://choosealicense.com/licenses/mit/)
-[![Cases](https://img.shields.io/badge/cases-28-green.svg)](#cases)
+[![Cases](https://img.shields.io/badge/cases-29-green.svg)](#cases)
 [![Languages](https://img.shields.io/badge/languages-EN%2FCN-lightgrey.svg)](#languages)
 
 **[中文版](README.zh.md) | English**
@@ -49,6 +49,7 @@ These cases are extracted from community showcases, official documentation, blog
 - [Event Guest Confirmation Supercall](usecases/operations/event-guest-confirmation-supercall.md) - Automated guest confirmation workflow
 - [GitHub Stale Issue Cleanup](usecases/operations/github-stale-issue-cleanup.md) - Periodic issue management and cleanup
 - [Log Anomaly Detection](usecases/operations/log-anomaly-detection.md) - Rolling baseline comparison for anomaly alerts
+- [OpenClaw Automated Business Report Aggregation](usecases/operations/openclaw-automated-business-reports.md) - Multi-source data collection and scheduled report distribution
 
 ### 🚀 Product Growth
 - [Market Research Product Factory](usecases/product-growth/market-research-product-factory.md) - Research to productization pipeline

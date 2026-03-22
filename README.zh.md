@@ -1,7 +1,7 @@
 # Awesome OpenClaw 案例集
 
 [![License: MIT](https://img.shields.io/badge/license-MIT-blue.svg)](https://choosealicense.com/licenses/mit/)
-[![Cases](https://img.shields.io/badge/cases-28-green.svg)](#案例)
+[![Cases](https://img.shields.io/badge/cases-29-green.svg)](#案例)
 [![Languages](https://img.shields.io/badge/languages-EN%2FCN-lightgrey.svg)](#语言)
 
 **中文版 | [English](README.md)**
@@ -49,6 +49,7 @@
 - [活动嘉宾确认 Supercall](usecases/operations/event-guest-confirmation-supercall.zh.md) - 自动化嘉宾确认工作流
 - [GitHub 长期 Issue 清理](usecases/operations/github-stale-issue-cleanup.zh.md) - 周期化 issue 管理与清理
 - [日志异常检测](usecases/operations/log-anomaly-detection.zh.md) - 基于滚动基线的异常识别与告警
+- [OpenClaw 自动化业务报表聚合](usecases/operations/openclaw-automated-business-reports.zh.md) - 多源数据采集与定时报表分发
 
 ### 🚀 产品增长
 - [市场调研产品工厂](usecases/product-growth/market-research-product-factory.zh.md) - 从调研到产品化的流水线
