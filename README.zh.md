@@ -1,7 +1,7 @@
 # Awesome OpenClaw 案例集
 
 [![License: MIT](https://img.shields.io/badge/license-MIT-blue.svg)](https://choosealicense.com/licenses/mit/)
-[![Cases](https://img.shields.io/badge/cases-30-green.svg)](#案例)
+[![Cases](https://img.shields.io/badge/cases-31-green.svg)](#案例)
 [![Languages](https://img.shields.io/badge/languages-EN%2FCN-lightgrey.svg)](#语言)
 
 **中文版 | [English](README.md)**
@@ -28,6 +28,7 @@
 ### 🔧 自动化集成
 - [家庭数字剪贴簿](usecases/automation-integration/family-digital-scrapbook.zh.md) - 带日历上下文的自动照片日记
 - [OpenClaw 三层记忆系统](usecases/automation-integration/openclaw-three-tier-memory-system.zh.md) - 跨会话上下文管理
+- [RosClaw 机器人控制](usecases/automation-integration/rosclaw-robot-control.zh.md) - 通过消息应用实现自然语言 ROS2 机器人控制
 - [微信自动发布流水线](usecases/automation-integration/wechat-auto-publishing-pipeline.zh.md) - 从选题到草稿的一键内容流水线
 - [小红书全链路运营自动化](usecases/automation-integration/xiaohongshu-full-ops-automation.zh.md) - 端到端小红书运营
 - [TweetClaw Twitter 自动化](usecases/automation-integration/tweetclaw-twitter-automation.zh.md) - 从聊天实现完整的 X/Twitter 自动化

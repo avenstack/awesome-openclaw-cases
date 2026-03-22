@@ -1,7 +1,7 @@
 # Awesome OpenClaw Cases
 
 [![License: MIT](https://img.shields.io/badge/license-MIT-blue.svg)](https://choosealicense.com/licenses/mit/)
-[![Cases](https://img.shields.io/badge/cases-30-green.svg)](#cases)
+[![Cases](https://img.shields.io/badge/cases-31-green.svg)](#cases)
 [![Languages](https://img.shields.io/badge/languages-EN%2FCN-lightgrey.svg)](#languages)
 
 **[中文版](README.zh.md) | English**
@@ -28,6 +28,7 @@ These cases are extracted from community showcases, official documentation, blog
 ### 🔧 Automation & Integration
 - [Family Digital Scrapbook](usecases/automation-integration/family-digital-scrapbook.md) - Automatic photo journaling with calendar context
 - [OpenClaw Three-Tier Memory System](usecases/automation-integration/openclaw-three-tier-memory-system.md) - Cross-session context management
+- [RosClaw Robot Control](usecases/automation-integration/rosclaw-robot-control.md) - Natural-language ROS2 robot control from messaging apps
 - [WeChat Auto-Publishing Pipeline](usecases/automation-integration/wechat-auto-publishing-pipeline.md) - One-click content pipeline from topic to draft
 - [Xiaohongshu Full Ops Automation](usecases/automation-integration/xiaohongshu-full-ops-automation.md) - End-to-end Xiaohongshu operations
 - [TweetClaw Twitter Automation](usecases/automation-integration/tweetclaw-twitter-automation.md) - Full X/Twitter automation from chat
