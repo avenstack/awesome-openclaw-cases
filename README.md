@@ -1,7 +1,7 @@
 # Awesome OpenClaw Cases
 
 [![License: MIT](https://img.shields.io/badge/license-MIT-blue.svg)](https://choosealicense.com/licenses/mit/)
-[![Cases](https://img.shields.io/badge/cases-29-green.svg)](#cases)
+[![Cases](https://img.shields.io/badge/cases-30-green.svg)](#cases)
 [![Languages](https://img.shields.io/badge/languages-EN%2FCN-lightgrey.svg)](#languages)
 
 **[中文版](README.zh.md) | English**
@@ -46,6 +46,7 @@ These cases are extracted from community showcases, official documentation, blog
 - [DevClaw Autonomous Dev Team](usecases/engineering/devclaw-autonomous-dev-team.md) - Multi-project dev teams with 60-80% token savings
 
 ### ⚙ Operations
+- [Agent Ruler Approval Gates](usecases/operations/agent-ruler-approval-gates.md) - Deterministic approval gates and audit receipts for safer OpenClaw runs
 - [Event Guest Confirmation Supercall](usecases/operations/event-guest-confirmation-supercall.md) - Automated guest confirmation workflow
 - [GitHub Stale Issue Cleanup](usecases/operations/github-stale-issue-cleanup.md) - Periodic issue management and cleanup
 - [Log Anomaly Detection](usecases/operations/log-anomaly-detection.md) - Rolling baseline comparison for anomaly alerts

@@ -1,7 +1,7 @@
 # Awesome OpenClaw 案例集
 
 [![License: MIT](https://img.shields.io/badge/license-MIT-blue.svg)](https://choosealicense.com/licenses/mit/)
-[![Cases](https://img.shields.io/badge/cases-29-green.svg)](#案例)
+[![Cases](https://img.shields.io/badge/cases-30-green.svg)](#案例)
 [![Languages](https://img.shields.io/badge/languages-EN%2FCN-lightgrey.svg)](#语言)
 
 **中文版 | [English](README.md)**
@@ -46,6 +46,7 @@
 - [DevClaw 自主开发团队](usecases/engineering/devclaw-autonomous-dev-team.zh.md) - 多项目开发团队，节省 60-80% Token
 
 ### ⚙ 运维实践
+- [Agent Ruler 审批门与审计回执](usecases/operations/agent-ruler-approval-gates.zh.md) - 为更安全的 OpenClaw 运行增加确定性审批与审计能力
 - [活动嘉宾确认 Supercall](usecases/operations/event-guest-confirmation-supercall.zh.md) - 自动化嘉宾确认工作流
 - [GitHub 长期 Issue 清理](usecases/operations/github-stale-issue-cleanup.zh.md) - 周期化 issue 管理与清理
 - [日志异常检测](usecases/operations/log-anomaly-detection.zh.md) - 基于滚动基线的异常识别与告警
