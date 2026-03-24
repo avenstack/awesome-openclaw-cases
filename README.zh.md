@@ -1,7 +1,7 @@
 # Awesome OpenClaw 案例集
 
 [![License: MIT](https://img.shields.io/badge/license-MIT-blue.svg)](https://choosealicense.com/licenses/mit/)
-[![Cases](https://img.shields.io/badge/cases-32-green.svg)](#案例)
+[![Cases](https://img.shields.io/badge/cases-33-green.svg)](#案例)
 [![Languages](https://img.shields.io/badge/languages-EN%2FCN-lightgrey.svg)](#语言)
 
 **中文版 | [English](README.md)**
@@ -27,6 +27,7 @@
 
 ### 🔧 自动化集成
 - [家庭数字剪贴簿](usecases/automation-integration/family-digital-scrapbook.zh.md) - 带日历上下文的自动照片日记
+- [PDF文章转播客](usecases/automation-integration/pdf-articles-to-podcast.zh.md) - 通过 OpenClaw 技能把 PDF 链接转成可分享的双主持播客音频
 - [OpenClaw 自我改进闭环](usecases/automation-integration/openclaw-self-improvement-loop.zh.md) - 把错误、纠正与能力缺口沉淀为可复用的工作流记忆
 - [OpenClaw 三层记忆系统](usecases/automation-integration/openclaw-three-tier-memory-system.zh.md) - 跨会话上下文管理
 - [RosClaw 机器人控制](usecases/automation-integration/rosclaw-robot-control.zh.md) - 通过消息应用实现自然语言 ROS2 机器人控制
