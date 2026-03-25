@@ -1,7 +1,7 @@
 # Awesome OpenClaw Cases
 
 [![License: MIT](https://img.shields.io/badge/license-MIT-blue.svg)](https://choosealicense.com/licenses/mit/)
-[![Cases](https://img.shields.io/badge/cases-33-green.svg)](#cases)
+[![Cases](https://img.shields.io/badge/cases-34-green.svg)](#cases)
 [![Languages](https://img.shields.io/badge/languages-EN%2FCN-lightgrey.svg)](#languages)
 
 **[中文版](README.zh.md) | English**
@@ -27,6 +27,7 @@ These cases are extracted from community showcases, official documentation, blog
 
 ### 🔧 Automation & Integration
 - [Family Digital Scrapbook](usecases/automation-integration/family-digital-scrapbook.md) - Automatic photo journaling with calendar context
+- [AI Nutrition Analysis with Haver](usecases/automation-integration/food-photo-nutrition-logging.md) - Log nutrition data from chat and meal photos
 - [PDF Articles to Podcast](usecases/automation-integration/pdf-articles-to-podcast.md) - Convert PDF links into shareable two-host podcast audio via OpenClaw skills
 - [OpenClaw Self-Improvement Loop](usecases/automation-integration/openclaw-self-improvement-loop.md) - Turn errors, corrections, and feature gaps into reusable workflow memory
 - [OpenClaw Three-Tier Memory System](usecases/automation-integration/openclaw-three-tier-memory-system.md) - Cross-session context management
